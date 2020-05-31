@@ -1,0 +1,16 @@
+S B1 1
+S B2 2
+S B3 3
+S B4 4
+S B5 5
+S B6 6
+S B7 7
+S B8 8
+B8 T 1
+B7 T 2
+B6 T 3
+B5 T 4
+B4 T 5
+B3 T 6
+B2 T 7
+B1 T 8
